@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently reading **Domain Driven Design**
 
-- 📝 I'm looking to start writing articles on [https://medium.com/@domcodespoti](https://medium.com/@domcodespoti)
+- 📝 I'm currently writing articles about APIs at [https://medium.com/@domcodespoti](https://medium.com/@domcodespoti)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
