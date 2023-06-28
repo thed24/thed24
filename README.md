@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Dominic!</h1>
-<h3 align="center">A passionate full-stack developer from Australia</h3>
+<h3 align="center">A passionate back-end developer from Australia</h3>
 
-- 🔭 I’m currently working on [a roguelike game in Unity](https://github.com/thed24/Physics-Like)
+- 🔭 I’m currently working on [an interpreter in F#](https://github.com/thed24/fsharp-interpreter)
 
-- 🌱 I’m currently reading **Domain Driven Design**
+- 💅 I’m currently polishing my [latest native Fitness Tracking application](https://github.com/thed24/fitness-tracker)
+
+- 🌱 I’m currently reading **Crafting Interpreters** by Robert Nystrom
 
 - 📝 I'm currently writing articles about APIs at [https://medium.com/@domcodespoti](https://medium.com/@domcodespoti)
 
