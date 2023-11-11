@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [an interpreter in F#](https://github.com/thed24/fsharp-interpreter)
 
-- 💅 I’m currently polishing my [latest native Fitness Tracking application](https://github.com/thed24/fitness-tracker)
+- 💅 I’m currently polishing my [latest native Fitness Tracking application](https://github.com/thed24/fitness-tracker-site)
 
 - 🌱 I’m currently reading **Crafting Interpreters** by Robert Nystrom
 
