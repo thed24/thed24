@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Dominic!</h1>
-<h3 align="center">A passionate back-end developer from Australia</h3>
+<h1 align="center">Hi, I'm Dom! 👋</h1>
+<h3 align="center">A passionate back-end developer sharpening their .NET skills</h3>
 
 - 🔭 I’m currently working on [an interpreter in F#](https://github.com/thed24/fsharp-interpreter)
 
